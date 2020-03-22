@@ -1,4 +1,4 @@
-## Your Name
+## Emily Wright
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
@@ -23,32 +23,30 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (January 2020 to April 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
+#### ICAS Chartered Accountancy Qualification (September 2016 - September 2019)
 
 That in some arguable way make you a better software developer or well-rounded person
 
+#### University of York (October 2013 to July 2016)
+
+- BSc Economics, 2:1
+
+
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
+**EY**   
+*Qualified Senior in Audit* (October 2019 to January 2020) 
 - Any experience relevent to software development
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+*Senior in Audit* (October 2018 to September 2019) 
+*Associate in Audit* (September 2016 to September 2018) 
 
 ## Hobbies
 
