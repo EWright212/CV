@@ -66,9 +66,9 @@ One instance of this was when a company had very complex revenue calculations ba
 
 #### Commitment to learning
 
-- I have consistently been in education as I love learning. Ever since finishing my accountancy qualification I knew I wanted to push myself to learn something new. I knew that coding has the perfect mix of problem solving and learning something new every day for me, and realised I could make this dream come true with a career switch.
+I have consistently been in education because I love learning. Ever since finishing my accountancy qualification I knew I wanted to push myself to learn something new. I knew that coding has the perfect mix of problem solving and learning something new every day for me, and realised I could make this dream come true with a career switch.
 
-- To learn you have to be adaptable. For example during a group project at Makers we had to make the switch to working remotely. By maintaining a positive attitude to the change we found we were able to work together on one computer whist on call much faster and as a result our team bonded well and we were proud of how much we accomplished in the project.  
+To learn you have to be adaptable. For example during a group project at Makers we had to make the switch to working remotely. By maintaining a positive attitude to the change we found we were able to work together on one computer whist on call much faster and as a result our team bonded well and we were proud of how much we accomplished in the project.  
 
 ## Education
 
