@@ -20,48 +20,53 @@ For a complete list, see my (GitHub repositories)[https://github.com/EWright212?
 
 |Project   |Description                                                |Technologies                            |
 |----------|-----------------------------------------------------------|----------------------------------------|
-|[PostBox](https://github.com/EWright212/MakersPostBox)|A virtual care-package app for gifting collections of images, gifs and videos - *Team Project*|Javascript, Ruby, Rails, RSpec, Capybara|
+|PostBox [Web App](http://makers-postbox.herokuapp.com/) [GitHub](https://github.com/EWright212/MakersPostBox)|A virtual care-package app for gifting collections of images, gifs and videos - *Makers Final Team Project*|Javascript, Ruby, Rails, RSpec, Capybara|
 |[Chitter](https://github.com/EWright212/chitter-challenge)|A clone of the popular social media app Twitter - *Solo Project*           |Ruby, Sinatra, Rspec, Capybara          |
 |[Makersbnb](https://github.com/EWright212/fireworksBnB)|Our first team project at Makers - a site for listing and booking spaces, inspired by Airbnb - *Team Project* |Ruby, Sinatra, Rspec, Capybara|
 |[Bank Tech Test](https://github.com/EWright212/Bank-tech-test)|An example tech test showcasing basics of object oriented programming - *Solo Project* |Ruby, Rspec
-|[Bowling Kata](https://github.com/EWright212/Bowling) |A bowling game score calculator to test my problem solving skills and knowledge of Javascript |Javascript, Jasmine
+|[Bowling Kata](https://github.com/EWright212/Bowling) |A bowling game score calculator to test my problem solving skills and knowledge of Javascript - *Solo Project*|Javascript, Jasmine
 
 
 ## Skills
 
 #### Clean Coder
 
-Makers (January to April 2019) During my time at Makers I learned about the importance of having an efficient and a readable codebase. Throughout the course I utilised programming principles such as SOLID and DRY, practiced using XP Values in group situations to ensure everyone was on the same wavelength, and used test driven development(TDD)/behaviour driven development(BDD) to lower the risk of introducing bugs and to improve my understanding and intentions behind how project was to work. 
+Makers
 
-I have also read the Nature of Software Development by Ron Jeffries which I believe to be the best introduction to the use of Agile in the workplace and made me buy into the approach as I am well aware dealines can never be met with a perfect project, so it is usually a good idea to ship a good project quickly to get feedback. -- NOT SURE CUTE THIS
+ During my time at Makers I learned about the importance of having an efficient and a readable codebase. Throughout the course I utilised programming principles such as SOLID and DRY, practiced using XP Values in group situations to ensure everyone was on the same wavelength, and used test driven development (TDD)/behaviour driven development (BDD) to lower the risk of introducing bugs and to improve my understanding and intentions behind how project was to work. 
 
-I truly believe in this approach to software development and hope to work with others that respect it as much as I do.
+Books 
+
+ I have read programming related books to broaden my knowledge on these topics, my favourite being the Nature of Software Development by Ron Jeffries on agile principles.
+
+I truly believe in an agile approach to software development and hope to work with others that respect it as much as I do.
 
 #### Communication and Teamwork
 
-Makers (January to April 2019) At Makers I had the opportunity to work with a very diverse group of people. I paired with someone new every day, which meant that between completing features I would often have to ramp up my new pair on what we were trying to achieve, as well as what had been done so far. This has allowed me to hone my ability to communicate complex ideas in a concise way.
+Makers (Jan 2020 - Apr 2020)
 
-Group projects were also a regular occurrence and we organised our own stand-ups and retros to ensure the team had effective communication. Good communication is imperative for an agile team to respond to changing environments; if you can communicate, you can do anything!
+At Makers I had the opportunity to work with a very diverse group of people. I paired with someone new every day, which meant that between completing features I would be either helping someone through a task or ensuring I gained as much understanding as possible from my pair. This has allowed me to hone my ability to communicate complex ideas in a concise way.
 
-EY (2016 - 2019)
-not just leading teams in uk and india, but also building relationships with clients, who very often didn't want to answer your questions as they had to prioritise their own daily tasks.
+Group projects were also a regular occurrence and we organised our own daily stand-ups, catch ups and retros to ensure the team had effective communication. Good communication is imperative for an agile team to respond to changing environments; if you can communicate, you can do anything!
+
+EY (2016 - 2019) 
+
+In two projects I was the coordinator with the India team, in charge of work delegations, coaching (including two weeks in India of face to face coaching) and resolving issues. There was often a disconnect between UK and India teams and I was able to act as an advocate for team integration by teaching teams how to work with each other, resulting in faster completion of work.
+
+I also had to build relationships with clients who very often didn't want to talk to auditors in order to solve questions. One client who was notorious for being hostile at the start requested that I stay on the team for his area of the audit next year.
 
 
 #### Problem Solving
 
 EY (2016 - 2019)
-Throughout my time here, as a senior in charge of overseeing the team's audit work, I developed my ability to troubleshoot problems. With each project i worked on I carried out, I gained more experience with how to approach problems; I became better at asking specific questions when something wasn't working, I learnt when and how to ask for help, and was able to recognise when solutions I came up with in the past would work again. I was also able to adapt knowledge from many sources such as online, past work, asking questions of the client, and colleagues to solve issues.  I learnt how to delegate
+As a senior I was in charge of overseeing the team's audit work. With each project i worked on I carried out, I gained more experience with how to approach problems; I became better at asking specific questions when something wasn't working, I learnt when and how to ask for help, and was able to recognise when solutions I came up with in the past would work again. I was also able to adapt knowledge from many sources such as my accounting knowledge, past work, asking questions of the client, and colleagues to solve issues.  I learnt how to delegate to junior members.
 
 ( give examples)
 
 #### Commitment to learning
 
-- consistently been in education, love learning. Ever since finishing my accountancy qualification I knew I wanted to keep pushing my brain and realised that coding has the perfect mix of problem solving and daily learning for me.
-- Reading a hobby, like alternating fiction and non fiction, read some really good books on agile development
- - Blog for link on books read (update)
-- career for me as i love using my brain always
-- had to be adaptable at makers when working remote - positive attitude, team worked well
-
+- I have consistently been in education as I love learning. Ever since finishing my accountancy qualification I knew I wanted to push myself to learn something new. I realised that coding has the perfect mix of problem solving and learning something new every day for me.
+- To learn you have to be adaptable. For example during a group project at Makers we had to make the switch to working remotely. By maintaining a positive attitude to the change we found we were able to work together on one computer whist on call much faster and as a result our team bonded well and we were proud of how much we accomplished in the project.  
 
 ## Education
 
