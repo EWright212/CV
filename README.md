@@ -31,7 +31,7 @@ For a complete list, see my (GitHub repositories)[https://github.com/EWright212?
 
 #### Clean Coder
 
-Makers
+Makers (Jan - Apr 2020)
 
  During my time at Makers I learned about the importance of having an efficient and a readable codebase. Throughout the course I utilised programming principles such as SOLID and DRY, practiced using XP Values in group situations to ensure everyone was on the same wavelength, and used test driven development (TDD)/behaviour driven development (BDD) to lower the risk of introducing bugs and to improve my understanding and intentions behind how project was to work. 
 
@@ -43,7 +43,7 @@ I truly believe in an agile approach to software development and hope to work wi
 
 #### Communication and Teamwork
 
-Makers (Jan 2020 - Apr 2020)
+Makers (Jan - Apr 2020)
 
 At Makers I had the opportunity to work with a very diverse group of people. I paired with someone new every day, which meant that between completing features I would be either helping someone through a task or ensuring I gained as much understanding as possible from my pair. This has allowed me to hone my ability to communicate complex ideas in a concise way.
 
@@ -66,7 +66,7 @@ One instance of this was when a company had very complex revenue calculations ba
 
 #### Commitment to learning
 
-- I have consistently been in education as I love learning. Ever since finishing my accountancy qualification I knew I wanted to push myself to learn something new. I realised that coding has the perfect mix of problem solving and learning something new every day for me.
+- I have consistently been in education as I love learning. Ever since finishing my accountancy qualification I knew I wanted to push myself to learn something new. I knew that coding has the perfect mix of problem solving and learning something new every day for me, and realised I could make this dream come true with a career switch.
 
 - To learn you have to be adaptable. For example during a group project at Makers we had to make the switch to working remotely. By maintaining a positive attitude to the change we found we were able to work together on one computer whist on call much faster and as a result our team bonded well and we were proud of how much we accomplished in the project.  
 
@@ -81,21 +81,20 @@ One instance of this was when a company had very complex revenue calculations ba
 
 #### ICAS Chartered Accountancy Qualification (September 2016 - September 2019)
 
-- working under pressure
-- fast learner
-- passed all exams first time - proof of my exam technique and good timetabling of study time
-- ability to retain knowledge as exams spread over three years with regular work in between
+- Passed all my exams first time due to my good timetabling of study time
+- Ability to retain knowledge as exams are spread over three years
 
 
 #### University of York (October 2013 to July 2016)
 
 - BSc Economics, 2:1
-- Modules included behavioural economics, health economics, statistics
+- Modules included behavioural economics, health economics and statistics
 
 
 ## Experience
 
-**EY**   
+**[EY](https://www.ey.com/en_uk) (2016-2020)**
+
 *Qualified Senior in Audit* (October 2019 to January 2020)
 
 - Teamwork
@@ -105,18 +104,18 @@ One instance of this was when a company had very complex revenue calculations ba
 -Ability to adapt - switching teams as projects only couple of months. Able to adapt to working in India coaching teams with limited guidance fom UK.
 - Excel skills. Realised I loved knowing all the shortcuts and implementing complex formulae to make workbooks quick to produce and easy to read.
 
-*EY Foundation - Programme delivery coordinator* (April 2019 to September 2019)
-
-- Teaching
-- Project Management
-- Independent work
-- Creating teaching materials - lesson plan - week's slides, materials, icebreakers
-
 
 *Senior in Audit* (October 2018 to September 2019) 
 
 *Associate in Audit* (September 2016 to September 2018) 
 
+**[EY Foundation](https://www.ey.com/en_uk/corporate-responsibility/ey-foundation) - Programme delivery coordinator (April to September 2019)**
+
+Six month secondment to EY's charity, aimed at providing disadvantaged 16-19 year olds work experience and training. Duties included:
+
+- Project Management to set up and run three separate programmes, including two bespoke programmes with companies in the construction sector.
+- Creating teaching materials including a whole week's worth of content about sustainable building from scratch.
+- Teaching students in summer programmes
 
 ## Interests
 
