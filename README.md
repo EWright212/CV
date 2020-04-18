@@ -59,13 +59,15 @@ I also had to build relationships with clients who very often didn't want to tal
 #### Problem Solving
 
 EY (2016 - 2019)
-As a senior I was in charge of overseeing the team's audit work. With each project i worked on I carried out, I gained more experience with how to approach problems; I became better at asking specific questions when something wasn't working, I learnt when and how to ask for help, and was able to recognise when solutions I came up with in the past would work again. I was also able to adapt knowledge from many sources such as my accounting knowledge, past work, asking questions of the client, and colleagues to solve issues.  I learnt how to delegate to junior members.
 
-( give examples)
+As a senior I was in charge of overseeing the team's audit work. With each project I worked on, I gained more experience with how to approach problems; I became better at asking specific questions when something wasn't working, I learnt when and how to ask for help, and was able to recognise when solutions I came up with in the past would work again. I was also able to adapt knowledge from many sources such as my accounting knowledge, past work, asking questions of the client, and colleagues to solve issues.  I learnt how to delegate to junior members and pass on my knowledge.
+
+One instance of this was when a company had very complex revenue calculations based on many different types of intercompany recharges. I spent many hours on the phone to our Canadian contact who was able to figure out the calculations and the reasons behind them due to my questions. My senior manager awarded me an Audit Quality Coin for my efforts.
 
 #### Commitment to learning
 
 - I have consistently been in education as I love learning. Ever since finishing my accountancy qualification I knew I wanted to push myself to learn something new. I realised that coding has the perfect mix of problem solving and learning something new every day for me.
+
 - To learn you have to be adaptable. For example during a group project at Makers we had to make the switch to working remotely. By maintaining a positive attitude to the change we found we were able to work together on one computer whist on call much faster and as a result our team bonded well and we were proud of how much we accomplished in the project.  
 
 ## Education
