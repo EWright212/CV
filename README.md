@@ -6,13 +6,17 @@
   <br>
 </div>
 
-I am a junior software developer with a passion for learning. I recently graduated from Makers academy bootcamp where I was able to start learning about agile web app development. Prior to Makers, I was a qualified accountant in audit at EY working with clients from the banking and capital markets industry.
+I am a junior software developer with a passion for learning. 
 
-Personal goals I try to live by:
-- make time for things that make you happy
+I recently graduated from Makers Academy bootcamp where I was able to start learning about agile web app development. Prior to Makers, I was a qualified accountant in audit at EY working with clients from the banking and capital markets sector.
+
+Personal goals that I try to live by:
 - learn something new every day
+- make time for things that make you happy
 
 ## Projects
+
+For a complete list, see my (GitHub repositories)[https://github.com/EWright212?tab=repositories].
 
 |Project   |Description                                                |Technologies                            |
 |----------|-----------------------------------------------------------|----------------------------------------|
@@ -27,7 +31,9 @@ Personal goals I try to live by:
 
 #### Clean Coder
 
-Makers (January to April 2019) During my time at Makers I learned about the importance of having an efficient and a readable codebase. Throughout the course I utilised programming principles such as SOLID and DRY, practiced using XP Values in group situations to ensure everyone was on the same wavelength, and used TDD/BDD to lower the risk of introducing bugs and to improve my understanding and intentions behind how project was to work. 
+Makers (January to April 2019) During my time at Makers I learned about the importance of having an efficient and a readable codebase. Throughout the course I utilised programming principles such as SOLID and DRY, practiced using XP Values in group situations to ensure everyone was on the same wavelength, and used test driven development(TDD)/behaviour driven development(BDD) to lower the risk of introducing bugs and to improve my understanding and intentions behind how project was to work. 
+
+I have also read the Nature of Software Development by Ron Jeffries which I believe to be the best introduction to the use of Agile in the workplace and made me buy into the approach as I am well aware dealines can never be met with a perfect project, so it is usually a good idea to ship a good project quickly to get feedback. -- NOT SURE CUTE THIS
 
 I truly believe in this approach to software development and hope to work with others that respect it as much as I do.
 
@@ -35,10 +41,10 @@ I truly believe in this approach to software development and hope to work with o
 
 Makers (January to April 2019) At Makers I had the opportunity to work with a very diverse group of people. I paired with someone new every day, which meant that between completing features I would often have to ramp up my new pair on what we were trying to achieve, as well as what had been done so far. This has allowed me to hone my ability to communicate complex ideas in a concise way.
 
-Group projects were also a regular occurence and we organised our own stand-ups and retros to ensure the team had effective communication. Good communication is imperative for an agile team to respond to changing environments; if you can communicate, you can do anything!
+Group projects were also a regular occurrence and we organised our own stand-ups and retros to ensure the team had effective communication. Good communication is imperative for an agile team to respond to changing environments; if you can communicate, you can do anything!
 
 EY (2016 - 2019)
-not just leading teams in uk and india, but also building relationships with clients
+not just leading teams in uk and india, but also building relationships with clients, who very often didn't want to answer your questions as they had to prioritise their own daily tasks.
 
 
 #### Problem Solving
@@ -77,6 +83,7 @@ Throughout my time here, as a senior in charge of overseeing the team's audit wo
 #### University of York (October 2013 to July 2016)
 
 - BSc Economics, 2:1
+- Modules included behavioural economics, health economics, statistics
 
 
 ## Experience
@@ -89,6 +96,7 @@ Throughout my time here, as a senior in charge of overseeing the team's audit wo
 - Client interaction
 - Finance industry, clients in banking and capital markets sector. As an auditor had to understand the businesses - what they did and how they worked in order to understand key controls and test them accordingly. 
 -Ability to adapt - switching teams as projects only couple of months. Able to adapt to working in India coaching teams with limited guidance fom UK.
+- Excel skills. Realised I loved knowing all the shortcuts and implementing complex formulae to make workbooks quick to produce and easy to read.
 
 *EY Foundation - Programme delivery coordinator* (April 2019 to September 2019)
 
