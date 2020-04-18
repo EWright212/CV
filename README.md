@@ -1,6 +1,10 @@
 ## Emily Wright
 
-I am a junior software developer with a passion for learning. I recently graduated from Makers academy bootcamp where I was able to start learning about agile web app mdevelopment. Prior to makers, I was a qualified accountant in audit at EY working with clients from the banking and capital markets industry.
+I am a junior software developer with a passion for learning. I recently graduated from Makers academy bootcamp where I was able to start learning about agile web app development. Prior to makers, I was a qualified accountant in audit at EY working with clients from the banking and capital markets industry.
+
+Personal goals to live by :
+- make time for things that make you happy
+- learn something new every day
 
 ## Skills
 
@@ -14,7 +18,7 @@ I truly believe in this approach to software development and hope to work with o
 
 Makers (January to April 2019) At Makers I had the opportunity to work with a very diverse group of people. I paired with someone new every day, which meant that between completing features I would often have to ramp up my new pair on what we were trying to achieve, as well as what had been done so far. This has allowed me to hone my ability to communicate complex ideas in a concise way.
 
-Group projects were also a regular occurence and we organised our own stand-ups and retros to ensure the team had effective communication. Good communcation is imperative for an agile team to respond to changing environments; if you can communicate, you can do anything!
+Group projects were also a regular occurence and we organised our own stand-ups and retros to ensure the team had effective communication. Good communication is imperative for an agile team to respond to changing environments; if you can communicate, you can do anything!
 
 EY (2016 - 2019)
 not just leading teams in uk and india, but also building relationships with clients
@@ -23,7 +27,7 @@ not just leading teams in uk and india, but also building relationships with cli
 #### Problem Solving
 
 EY (2016 - 2019)
-Throughout my time here, as a senior in charge of overseeing the team's audit work, I developed my ability to troubleshoot problems. With each project i worked on I carried out, I gained more experience with how to approach problems; I became better at asking specific questions when something wasn't working, I learnt when and how to ask for help, and was able to recognise when solutions I came up with in the past would work again. I was also able to adapt knowldge from many sources such as online, past work, asking questions of the client, and colleagues to solve issues.  I learnt how to delegate
+Throughout my time here, as a senior in charge of overseeing the team's audit work, I developed my ability to troubleshoot problems. With each project i worked on I carried out, I gained more experience with how to approach problems; I became better at asking specific questions when something wasn't working, I learnt when and how to ask for help, and was able to recognise when solutions I came up with in the past would work again. I was also able to adapt knowledge from many sources such as online, past work, asking questions of the client, and colleagues to solve issues.  I learnt how to delegate
 
 ( give examples)
 
@@ -47,7 +51,10 @@ Throughout my time here, as a senior in charge of overseeing the team's audit wo
 
 #### ICAS Chartered Accountancy Qualification (September 2016 - September 2019)
 
-
+- working under pressure
+- fast learner
+- passed all exams first time - proof of my exam technique and good timetabling of study time
+- ability to retain knowledge as exams spread over three years with regular work in between
 
 
 #### University of York (October 2013 to July 2016)
@@ -63,8 +70,25 @@ Throughout my time here, as a senior in charge of overseeing the team's audit wo
 - Teamwork
 - Delegation
 - Client interaction
-- Finance industry, clients in banking and capital markets sector. As an auditor had to understand the business
+- Finance industry, clients in banking and capital markets sector. As an auditor had to understand the businesses - what they did and how they worked in order to understand key controls and test them accordingly. 
+-Ability to adapt - switching teams as projects only couple of months. Able to adapt to working in India coaching teams with limited guidance fom UK.
 
-*Senior in Audit* (October 2018 to September 2019)
+*EY Foundation - Programme delivery coordinator* (April 2019 to September 2019)
+
+- Teaching
+- Project Management
+- Independent work
+- Creating teaching materials - lesson plan - week's slides, materials, icebreakers
+
+
+*Senior in Audit* (October 2018 to September 2019) 
+
 *Associate in Audit* (September 2016 to September 2018) 
 
+
+## Hobbies
+
+- Reading. I know I truly have free time when I don't feel guilty to open a hardback. I love trying to alternate between fiction and non-fiction and I am a firm believer in the power of audiobooks - if you're absorbing the content the delivery method is unimportant.
+- Baking. I have a rye sourdough culture that has been known to make some pretty reasonable pizza dough or my favourite caraway seed and wheat beer rye bread.
+- Drawing. While most of my artwork can be seen as doodles in my notebooks or on my whiteboard 
+- Bullet Journaling. In the summer of 2019 I began thinking of a lot of self improvement tips, from "Marie Kondoing" all my clothes (my wardrobe has never been so tidy), to exercise (yoga is the only one I've been able to keep up with), to finally bullet journaling. I find making a handwritten to do list each day really helps me prioritise and mitigate the stress of not knowing where to begin. It also helps me give myself time to properly relax which is so important to keeping up energy to learn new things every day.
