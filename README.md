@@ -1,10 +1,27 @@
-## Emily Wright
+<div align="center">
+  <h1>Emily Wright</h1>
 
-I am a junior software developer with a passion for learning. I recently graduated from Makers academy bootcamp where I was able to start learning about agile web app development. Prior to makers, I was a qualified accountant in audit at EY working with clients from the banking and capital markets industry.
+  **A full-stack software developer with an appetite for learning and new challenges**<br>
+  [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/emily-wright-38b1b0a6/)
+  <br>
+</div>
 
-Personal goals to live by :
+I am a junior software developer with a passion for learning. I recently graduated from Makers academy bootcamp where I was able to start learning about agile web app development. Prior to Makers, I was a qualified accountant in audit at EY working with clients from the banking and capital markets industry.
+
+Personal goals I try to live by:
 - make time for things that make you happy
 - learn something new every day
+
+## Projects
+
+|Project   |Description                                                |Technologies                            |
+|----------|-----------------------------------------------------------|----------------------------------------|
+|[PostBox](https://github.com/EWright212/MakersPostBox)|A virtual care-package app for gifting collections of images, gifs and videos - *Team Project*|Javascript, Ruby, Rails, RSpec, Capybara|
+|[Chitter](https://github.com/EWright212/chitter-challenge)|A clone of the popular social media app Twitter - *Solo Project*           |Ruby, Sinatra, Rspec, Capybara          |
+|[Makersbnb](https://github.com/EWright212/fireworksBnB)|Our first team project at Makers - a site for listing and booking spaces, inspired by Airbnb - *Team Project* |Ruby, Sinatra, Rspec, Capybara|
+|[Bank Tech Test](https://github.com/EWright212/Bank-tech-test)|An example tech test showcasing basics of object oriented programming - *Solo Project* |Ruby, Rspec
+|[Bowling Kata](https://github.com/EWright212/Bowling) |A bowling game score calculator to test my problem solving skills and knowledge of Javascript |Javascript, Jasmine
+
 
 ## Skills
 
@@ -86,7 +103,7 @@ Throughout my time here, as a senior in charge of overseeing the team's audit wo
 *Associate in Audit* (September 2016 to September 2018) 
 
 
-## Hobbies
+## Interests
 
 - Reading. I know I truly have free time when I don't feel guilty to open a hardback. I love trying to alternate between fiction and non-fiction and I am a firm believer in the power of audiobooks - if you're absorbing the content the delivery method is unimportant.
 - Baking. I have a rye sourdough culture that has been known to make some pretty reasonable pizza dough or my favourite caraway seed and wheat beer rye bread.
