@@ -16,7 +16,7 @@ Personal goals that I try to live by:
 
 ## Projects
 
-For a complete list, see my (GitHub repositories)[https://github.com/EWright212?tab=repositories].
+For a complete list, see my [GitHub repositories](https://github.com/EWright212?tab=repositories).
 
 |Project   |Description                                                |Technologies                            |
 |----------|-----------------------------------------------------------|----------------------------------------|
@@ -26,7 +26,7 @@ For a complete list, see my (GitHub repositories)[https://github.com/EWright212?
 |[Bank Tech Test](https://github.com/EWright212/Bank-tech-test)|An example tech test showcasing basics of object oriented programming - *Solo Project* |Ruby, Rspec
 |[Bowling Kata](https://github.com/EWright212/Bowling) |A bowling game score calculator to test my problem solving skills and knowledge of Javascript - *Solo Project*|Javascript, Jasmine
 
-
+#
 ## Skills
 
 #### Clean Coder
@@ -38,6 +38,7 @@ Makers (Jan - Apr 2020)
 Books 
 
  I have read programming related books to broaden my knowledge on these topics, my favourite being the Nature of Software Development by Ron Jeffries on agile principles.
+ 
 
 I truly believe in an agile approach to software development and hope to work with others that respect it as much as I do.
 
@@ -69,7 +70,7 @@ One instance of this was when a company had very complex revenue calculations ba
 I have consistently been in education because I love learning. Ever since finishing my accountancy qualification I knew I wanted to push myself to learn something new. I knew that coding has the perfect mix of problem solving and learning something new every day for me, and realised I could make this dream come true with a career switch.
 
 To learn you have to be adaptable. For example during a group project at Makers we had to make the switch to working remotely. By maintaining a positive attitude to the change we found we were able to work together on one computer whist on call much faster and as a result our team bonded well and we were proud of how much we accomplished in the project.  
-
+#
 ## Education
 
 #### Makers Academy (January 2020 to April 2020)
@@ -90,7 +91,7 @@ To learn you have to be adaptable. For example during a group project at Makers 
 - BSc Economics, 2:1
 - Modules included behavioural economics, health economics and statistics
 
-
+#
 ## Experience
 
 **[EY](https://www.ey.com/en_uk) (2016-2020)**
@@ -110,9 +111,10 @@ Six month secondment to EY's charity, aimed at providing disadvantaged 16-19 yea
 - Project Management to set up and run three separate programmes, including two bespoke programmes with companies in the construction sector.
 - Creating teaching materials including a whole week's worth of content about sustainable building from scratch.
 - Teaching students in summer programmes
-
+#
 ## Interests
 
 - **Reading** ~ I love trying to alternate between fiction and non-fiction and I am a firm believer in the power of audiobooks - if you're absorbing the content the delivery method is unimportant.
 - **Baking** ~ I have a rye sourdough culture that has been known to make some pretty reasonable pizza dough or my favourite caraway seed and wheat beer rye loaf.
 - **Bullet Journaling** ~ In the summer of 2019 I began thinking of a lot of self improvement tips, from "Marie Kondoing" all my clothes (my wardrobe has never been so tidy), to exercise (yoga is the only one I've been able to keep up with), to finally bullet journaling. I find making a handwritten to do list each day really helps me prioritise and mitigate the stress of not knowing where to begin. It also helps me give myself time to properly relax which is so important for energy levels so I can learn new things every day.
+#
