@@ -95,23 +95,17 @@ One instance of this was when a company had very complex revenue calculations ba
 
 **[EY](https://www.ey.com/en_uk) (2016-2020)**
 
-*Qualified Senior in Audit* (October 2019 to January 2020)
+**Qualified Senior in Audit (October 2019 to January 2020)**
 
-- Teamwork
-- Delegation
-- Client interaction
-- Finance industry, clients in banking and capital markets sector. As an auditor had to understand the businesses - what they did and how they worked in order to understand key controls and test them accordingly. 
--Ability to adapt - switching teams as projects only couple of months. Able to adapt to working in India coaching teams with limited guidance fom UK.
-- Excel skills. Realised I loved knowing all the shortcuts and implementing complex formulae to make workbooks quick to produce and easy to read.
+Three year graduate scheme at "Big Four" accountancy firm. Clients from the banking and capital markets sector. As an auditor I had to understand my clients' businesses from what they did to how they worked in order to detect key controls and accounts in order to provide the most robust testing. 
 
+*Senior in Audit (October 2018 to September 2019)*
 
-*Senior in Audit* (October 2018 to September 2019) 
-
-*Associate in Audit* (September 2016 to September 2018) 
+*Associate in Audit (September 2016 to September 2018)*
 
 **[EY Foundation](https://www.ey.com/en_uk/corporate-responsibility/ey-foundation) - Programme delivery coordinator (April to September 2019)**
 
-Six month secondment to EY's charity, aimed at providing disadvantaged 16-19 year olds work experience and training. Duties included:
+Six month secondment to EY's charity, aimed at providing disadvantaged 16-19 year olds with work experience and training. Duties included:
 
 - Project Management to set up and run three separate programmes, including two bespoke programmes with companies in the construction sector.
 - Creating teaching materials including a whole week's worth of content about sustainable building from scratch.
@@ -119,7 +113,6 @@ Six month secondment to EY's charity, aimed at providing disadvantaged 16-19 yea
 
 ## Interests
 
-- Reading. I know I truly have free time when I don't feel guilty to open a hardback. I love trying to alternate between fiction and non-fiction and I am a firm believer in the power of audiobooks - if you're absorbing the content the delivery method is unimportant.
-- Baking. I have a rye sourdough culture that has been known to make some pretty reasonable pizza dough or my favourite caraway seed and wheat beer rye bread.
-- Drawing. While most of my artwork can be seen as doodles in my notebooks or on my whiteboard 
-- Bullet Journaling. In the summer of 2019 I began thinking of a lot of self improvement tips, from "Marie Kondoing" all my clothes (my wardrobe has never been so tidy), to exercise (yoga is the only one I've been able to keep up with), to finally bullet journaling. I find making a handwritten to do list each day really helps me prioritise and mitigate the stress of not knowing where to begin. It also helps me give myself time to properly relax which is so important to keeping up energy to learn new things every day.
+- **Reading** ~ I love trying to alternate between fiction and non-fiction and I am a firm believer in the power of audiobooks - if you're absorbing the content the delivery method is unimportant.
+- **Baking** ~ I have a rye sourdough culture that has been known to make some pretty reasonable pizza dough or my favourite caraway seed and wheat beer rye loaf.
+- **Bullet Journaling** ~ In the summer of 2019 I began thinking of a lot of self improvement tips, from "Marie Kondoing" all my clothes (my wardrobe has never been so tidy), to exercise (yoga is the only one I've been able to keep up with), to finally bullet journaling. I find making a handwritten to do list each day really helps me prioritise and mitigate the stress of not knowing where to begin. It also helps me give myself time to properly relax which is so important for energy levels so I can learn new things every day.
